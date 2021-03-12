@@ -554,10 +554,13 @@ ol {
   align-items: baseline;
 }
 
+.section-footer-logo-adress {
+  margin-right: 70px;
+}
+
 .address {
   font-style: normal;
   margin-top: 20px;
-  margin-right: 70px;
 }
 
 .section-footer-social-list {
